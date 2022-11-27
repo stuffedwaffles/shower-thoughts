@@ -1,0 +1,8 @@
+{
+    "user_agent":"waf_scraper",
+    "username":"stuffedwaffles123",
+    "password":"Anikar0cks",
+    "client_id":"_iX65GJpLOWbScbB9Fygjw",
+    "client_secret":"j13wf7zeYOZPtBN51k8dgxiBnNNT8g"
+}
+
